@@ -23,10 +23,10 @@ class ViewController: UIViewController {
         let tirada = moneda.lanzar()
         
         if(tirada == Tirada.cara){
-            labelResp.text="Ha salido cara!"
+            labelResp.text=NSLocalizedString("Rcara", comment: "")
             imagen.image=UIImage(named: "cara")
         }else{
-            labelResp.text="Ha salido cruz!"
+            labelResp.text=NSLocalizedString("Rcruz", comment: "")
             imagen.image=UIImage(named: "cruz")
         }
     }

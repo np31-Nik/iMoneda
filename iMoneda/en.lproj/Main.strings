@@ -1,0 +1,6 @@
+
+/* Class = "UIButton"; configuration.title = "Lanzar moneda"; ObjectID = "P4d-TL-0B5"; */
+"P4d-TL-0B5.configuration.title" = "Toss coin";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "P4d-TL-0B5"; */
+"P4d-TL-0B5.normalTitle" = "Button";
